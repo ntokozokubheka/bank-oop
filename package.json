@@ -1,0 +1,17 @@
+{
+  "name": "ntokozo-kubheka-959-contentitem-javascript",
+  "version": "1.0.0",
+  "description": "Umuzi bank program task ",
+  "main": "src/bank.js ",
+  "scripts": {
+    "test": "jasmine "
+  },
+  "author": "Ntokozo H. Kubheka",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  },
+  "dependencies": {
+    "decimal.js": "^10.4.3"
+  }
+}
